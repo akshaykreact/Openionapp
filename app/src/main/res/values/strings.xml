@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenionApp</string>
+    <string name="dashborad">Dashboard</string>
+    <string name="greetings">Good Morning</string>
+    <string name="customername">Akshay Kumar</string>
+    <string name="viewanalitcs">View Analytics</string>
+    <string name="talkwithus">Talk With Us :</string>
+    <string name="frequent">Frequently Asked Questions</string>
+
+    <string name="todayclick">Today\'s Click</string>
+    <string name="toplocation">Top Location</string>
+    <string name="topsource">Top Source</string>
+    <string name="besttime">Best Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
